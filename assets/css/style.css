@@ -1,24 +1,21 @@
-* {
-    box-sizing: border-box;
-}
-/*This determines the background color of the whole page*/
+
 body {
     background-color: #ffffff;
 }
-/*This controls the font, color, and padding of the Stephen Garcia header*/
+
 header {
     padding: 5px;
     font-family: 'Times New Roman', Arial, sans-serif;
     background-color: #2b395f;
     color: #ffffff;
 }
-/* This controls the 3 links and how they line up with eachother and their font size*/
+
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* This determines the properties of the Nav in the top right of the page */
+
 header nav {
     padding-top: 25px;
     margin-right: 20px;
@@ -30,21 +27,21 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
-/* Controls how the list items appear and their margin */
+
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* Controls the href text color */
+
 a {
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
-/* Controls the paragraph font size */
+
 p {
     font-size: 16px;
 }
-/* Controls the properties of the "Hero" image at the top of the screen */
+
 .tech {
     height: 150px;
     width: 100%;
@@ -53,24 +50,24 @@ p {
     background-size: auto;
     background-position: center;
 }
-/* Contols position of the image to the left */
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* Controls the position of the picture and sets it to the right */
+
 .float-right {
     float: right;
     margin-right: 25px;
 }
-/* This handles the properties of the section boxes */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* This controls how the text and and section boxes appear that are labled as so */
+
 .about-me, .my-work, .contact-me {
     margin-bottom: 20px;
     padding: 50px;
@@ -79,11 +76,11 @@ p {
     background-color: #992424;
     color: rgb(39, 80, 168);
 }
-/* Contols the max height of the images targeted */
+
 .about-me img, .my-work img, .contact-me img  {
     max-height: 200px;
 }
-/* Controls the the margin and font size of the targeted sections */
+
 .about-me h2, .my-work h2, .contact-me h2 {
     margin-bottom: 20px;
     font-size: 36px;
