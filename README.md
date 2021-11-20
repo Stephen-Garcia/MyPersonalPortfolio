@@ -14,4 +14,4 @@ This im my personal portfolio. It showcases the skills I have learned so far.
 
 ## Link to Website
 
-https://stephengarcia1234.github.io/MyPersonalPortfolio/
+https://Stephen-Garcia.github.io/MyPersonalPortfolio/
